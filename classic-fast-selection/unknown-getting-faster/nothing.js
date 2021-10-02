@@ -9,7 +9,7 @@ var percent_time = 0.57686;
 
 var rate = 1;
 var rate_timer = percent_time;
-var floweys = ["You IDIOT.", "You haven't learned a thing.", "Howdy! I'm FLOWEY. FLOWEY the FLOWER!", "It's KILL or BE killed.", "flowey.exe", "It's me, FLOWEY.", "...what?", "You really ARE an idiot.", "Your old friend FLOWEY...", "FILE 2 SAVED", "FILE 3 SAVED", "FILE 6 SAVED", "FILE 3 LOADED", "FILE 4 LOADED", "FILE 6 LOADED", "FILE 2 LOADED", "You're HOPELESS.", "I am the GOD of this world.", "But nobody came."]
+var floweys = ["Hello, Yaasir. I am your A.I.", "Do you want to stay away from Amy?", "I don't serve criminals.", "Or you can get a mysterious album just for free?", "Reaching the stars...", "Hey! Zemetekile, bring us where we say", "Astra Makula, the leader is one of a kind", "A grub! 10/46", "sdfasdklfgsdfgsgoinrfoenlvbd", "I have granted kids to hell.", "You can be sweet, Spamton. But you can't be a psycho.", "Gimme Equality!", "Gimme Rewards!", "I HAVE BEEN BOTHERED OLA", "That door is opening once again, but this time it's opening for you.", "You are about to discover what lies beyond the fifth dimension, beyond the deepest darkest corner of your imagination, in the Tower of Terror.", "J'explose!", "Left speaker check, right speaker check, ASMRoom by TTR.", "Do you want to pay 5000 geo with only 1 geo?"]
 
 function update() {
 
