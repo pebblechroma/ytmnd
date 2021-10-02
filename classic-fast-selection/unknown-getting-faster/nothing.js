@@ -1,5 +1,5 @@
 var flowey = new Howl({
-	src: ["audio/nobody.ogg", "audio/nobody.mp3"],
+	src: ["audio/nobody.ogg", "audio/nobody.wav"],
 	loop: true,
 });
 
