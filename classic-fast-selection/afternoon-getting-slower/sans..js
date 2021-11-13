@@ -39,37 +39,37 @@ function update() {
 	document.getElementById("sans").style.left = ((rate - Math.random() * rate * 2)+((divwidth-500)/2)) + "px";
 	sansrot = sansrot + ((Math.round(Math.random()) * 4 - sansmod) * rate)
 	if (rate <= 0.9 && rate > 0.85) {
-		document.title = "Alright, now it's time to solve the mystery!"
+		document.title = "Rosalyn, I think it's time to go and solve the mystery!"
 	}
 	if (rate <= 0.85 && rate > 0.8) {
-		document.title = "???."
+		document.title = "Rosalyn? It's time to go, hop on the car!"
 	}
 	if (rate <= 0.8 && rate > 0.75) {
-		document.title = "Sans!"
+		document.title = "Rosalyn!"
 	}
 	if (rate <= 0.75 && rate > 0.7) {
-		document.title = "Quit it out!"
+		document.title = "Go inside the car!"
 	}
 	if (rate <= 0.7 && rate > 0.65) {
-		document.title = "If you don't stop this instant I'm calling Toriel!"
+		document.title = "If you don't go inside the car, I'm calling Professor Nova!"
 	}
 	if (rate <= 0.65 && rate > 0.6) {
-		document.title = "Sans?"
+		document.title = "Rosalyn?"
 	}
 	if (rate <= 0.6 && rate > 0.55) {
-		document.title = "Are you okay Sans?"
+		document.title = "Are you feeling alright?"
 	}
 	if (rate <= 0.55 && rate > 0.5) {
-		document.title = "I'm going to go get help."
+		document.title = "I think the Crown of Nightmares caused her to rotate slowly."
 	}
 	if (rate <= 0.50) {
-		document.title = "SANS. EXCEPT IT KEEPS GETTING SLOWER?"
+		document.title = "We're all about that personality!"
 	}
 	if (rate == 0.0001) {
 		document.title = '\uD83D\uDCA7\u264B\u25A0\u2B27\u270D'
 		bottomcount++
 		if (bottomcount => 100) {
-			window.location.replace("https://walle303.github.io/ytmnd/gast-getting-gaster/");
+			window.location.replace("https://pebblechroma.github.io/ytmnd/fast-gallery/C.png");
 		}	
 	}
 	requestAnimationFrame(update);
