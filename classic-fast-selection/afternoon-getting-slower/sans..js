@@ -42,7 +42,7 @@ function update() {
 		document.title = "Rosalyn, I think it's time to go and solve the mystery!"
 	}
 	if (rate <= 0.85 && rate > 0.8) {
-		document.title = "Rosalyn? It's time to go, hop on the car!"
+		document.title = "Rosalyn? It's time to hop on the car!"
 	}
 	if (rate <= 0.8 && rate > 0.75) {
 		document.title = "Rosalyn!"
@@ -60,16 +60,16 @@ function update() {
 		document.title = "Are you feeling alright?"
 	}
 	if (rate <= 0.55 && rate > 0.5) {
-		document.title = "I think the Crown of Nightmares caused her to rotate slowly."
+		document.title = "(sighs) I think the Crown of Nightmares caused her to rotate very slowly."
 	}
 	if (rate <= 0.50) {
-		document.title = "We're all about that personality!"
+		document.title = "..."
 	}
-	if (rate == 0.0001) {
+	if (rate == 0.10) {
 		document.title = '\uD83D\uDCA7\u264B\u25A0\u2B27\u270D'
 		bottomcount++
 		if (bottomcount => 100) {
-			window.location.replace("https://pebblechroma.github.io/ytmnd/fast-gallery/C.png");
+			window.location.replace("https://i.guim.co.uk/img/media/292430d0b19f6ccfe4dd4669f48376bcf14dcfb9/0_936_4480_2688/master/4480.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7448b35d2c087f0296921be29ae7869d");
 		}	
 	}
 	requestAnimationFrame(update);
