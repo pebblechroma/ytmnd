@@ -1,4 +1,4 @@
-var sansArr = ["I am Lucy... I am the law here...","For I am the Pike Queen...,"You already know it, but to advance, you must defeat me...","I'm not one for idle chatter.","Hurry. Come on...","Your luck... I hope you didn't use it all up here...",""]
+var sansArr = ["Lucy is upset waiting for you.",""]
 var sans = new Howl({
 	src: ["audio/megalovania.ogg"],
 	loop: true,
