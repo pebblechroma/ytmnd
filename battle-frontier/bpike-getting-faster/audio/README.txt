@@ -1,1 +1,1 @@
-Battle Pike is overrated in Battle Frontier.
+Battle Pike is underrated in Pokemon Hoenn Battle Frontier.
