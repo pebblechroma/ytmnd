@@ -1,3 +1,5 @@
+Justin Bieber ft. The Kid LAROI - Stay (Lyrics)
+
 I do the same thing I told you that I never would
 I told you I'd change, even when I knew I never could
 Know that I can't find nobody else as good as you
