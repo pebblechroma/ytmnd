@@ -1,5 +1,5 @@
 var mettaton = new Howl({
-	src: ["audio/metalcrusher.ogg", "audio/metalcrusher.mp3"],
+	src: ["audio/metalcrusher.ogg"],
 	loop: true,
 });
 
